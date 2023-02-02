@@ -34,7 +34,7 @@
     "date": "02/15/2022",
     "institution": "Desjardins",
     "account": "Personal chequing account",
-    "merchant": "Payroll",
+    "merchant": "Payroll-payroll",
     "amount": 2000.00,
     "type": "credit",
     "categoryId": 701,
